@@ -47,6 +47,16 @@ try
             i.classList.add('asideActive')  // active
         }    
     })
+
+    /*
+        menu anchor click function : close
+        
+        aside.forEach(a => a.onclick = function()
+        {
+            this.parentElement.classList.add('asideDisable')
+            isActive = false;
+        })
+    */ 
 }
 catch(e)
 {
