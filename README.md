@@ -1,32 +1,39 @@
-Certainly! To create a README file for your education website repository on GitHub (assuming your repository is named "website-21" and your username is "MayankDevil"), you can follow this template:
-
-markdown
 # Website-21
 
-Welcome to the "Website-21" repository! This is an educational website focused on learning PHP and related technologies. Here, you'll find resources, tutorials, and code samples to help you on your journey to mastering web development with PHP.
+- Name : "PHPweb"
 
-## Tech Stack
+- Description : " Welcome to the "Website-21" repository! This is an educational website focused on learning PHP and related technologies. Here, you'll find resources, tutorials, and code samples to help you on your journey to mastering web development with PHP."
 
-- HTML
-- CSS
-- JavaScript
-- PHP
+- Update : 01-11-2023
 
-## About the Author
+- Status : RSET 
 
-- GitHub: [@MayankDevil](https://github.com/MayankDevil)
+- Responsive : True
 
-## Getting Started
+- TechStack : { HTML | CSS | JavaScript }
 
-To explore the content and resources on this website, you can visit [Website-21](https://your-website-url-here.com).
+- Thanks : { VSCodium | Github | PHP }
 
-## Contributing
+- Collobrate : { Self }
 
-If you'd like to contribute to this project, feel free to create pull requests or open issues. Your contributions are welcome!
+- Designed | Developed : { Mayank }
 
-## License
+- CopyRight : { Mayank }
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- URL : https://mayankdevil.github.io/website-21/
 
+- Clone :  https://github.com/MayankDevil/website-21.git
 
-Replace `your-website-url-here.com` with the actual URL of your website. You can also add more information about your project, such as specific features, installation instructions, or details about how to contribute. This README provides a basic structure that you can build upon to make it more comprehensive and informative
+- Downloads : https://github.com/MayankDevil/website-21/archive/refs/heads/main.zip
+
+## LOOK FEEL
+
+![LandingPage](./data/PHPweb.png)
+
+## Responsive
+
+_"this website has been designed to ensure a seamless and accessible user experience, making it easy for all visitors to read and navigate confortably."_
+
+## Theme
+
+_"this website employs a light theme with a predominantly blue color scheme, with occasional subtle touches of red for specific elements."_
