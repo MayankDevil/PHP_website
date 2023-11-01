@@ -28,15 +28,18 @@
 
 - Downloads : https://github.com/MayankDevil/website-21/archive/refs/heads/main.zip
 
-## LOOK FEEL
+### LOOK FEEL
 
 ![LandingPage](./data/PHPweb.png)
 
-## Responsive
+### Responsive
 
 _"this website has been designed to ensure a seamless and accessible user experience, making it easy for all visitors to read and navigate confortably."_
 
-## Theme
+### Theme
 
 _"this website employs a light theme with a predominantly blue color scheme, with occasional subtle touches of red for specific elements."_
 
+### Information
+
+__" This website is created for educational purpose and is not responsible for any errors or inaccuracies. It does not guarnatee the issuance of certificates and does not charge any fees. Copying or downloading content from this website for unauthorized use is stricly prohibted. Any such actions may result in legal conseqences and charges. "__
