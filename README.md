@@ -1,32 +1,32 @@
 # Website-21
 
-- **Name** : "PHPweb"
+- Name : "PHPweb"
 
-- **Description** : " Welcome to the "Website-21" repository! This is an educational website focused on learning PHP and related technologies. Here, you'll find resources, tutorials, and code samples to help you on your journey to mastering web development with PHP."
+- Description : " Welcome to the "Website-21" repository! This is an educational website focused on learning PHP and related technologies. Here, you'll find resources, tutorials, and code samples to help you on your journey to mastering web development with PHP."
 
-- **Version** : 0.0
+- Version : 0.0
 
-- **Update** : 01-11-2023
+- Update : 01-11-2023
 
-- **Status** : RSET 
+- Status : RSET 
 
-- **Responsive** : True
+- Responsive : True
 
-- **TechStack** : { HTML | CSS | JavaScript }
+- TechStack : { HTML | CSS | JavaScript }
 
-- **Thanks** : { VSCodium | Github | PHP }
+- Thanks : { VSCodium | Github | PHP }
 
-- **Collobrate** : { Self }
+- Collobrate : { Self }
 
-- **Designed** | **Developed** : { Mayank }
+- Designed | Developed : { Mayank }
 
-- **CopyRight** : { Mayank }
+- CopyRight : { Mayank }
 
-- **URL** : https://mayankdevil.github.io/website-21/
+- URL : https://mayankdevil.github.io/website-21/
 
-- **Clone** :  https://github.com/MayankDevil/website-21.git
+- Clone :  https://github.com/MayankDevil/website-21.git
 
-- **Download** : https://github.com/MayankDevil/website-21/archive/refs/heads/main.zip
+- Downloads : https://github.com/MayankDevil/website-21/archive/refs/heads/main.zip
 
 ## LOOK FEEL
 
@@ -39,3 +39,4 @@ _"this website has been designed to ensure a seamless and accessible user experi
 ## Theme
 
 _"this website employs a light theme with a predominantly blue color scheme, with occasional subtle touches of red for specific elements."_
+
