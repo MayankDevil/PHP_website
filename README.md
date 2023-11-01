@@ -4,6 +4,8 @@
 
 - Description : " Welcome to the "Website-21" repository! This is an educational website focused on learning PHP and related technologies. Here, you'll find resources, tutorials, and code samples to help you on your journey to mastering web development with PHP."
 
+- Version : 0.0
+
 - Update : 01-11-2023
 
 - Status : RSET 
